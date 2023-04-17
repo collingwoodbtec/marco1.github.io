@@ -1,0 +1,17 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{background-color: teal}
+
+h2{
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"}
+	
+.container
+{background-color: lightseagreen;
+              border: 12px solid #ADABAB}
+
+.col-lg-4
+{border-right:3px solid #FFFFFF; border-left:3px solid #FFFFFF; }
+
+.col-lg-3
+{border-right:3px solid #FFFFFF; border-left:3px solid #FFFFFF;}
